@@ -1,0 +1,14 @@
+html, body, #root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f3f7fb;
+  color: #111827;
+}
+
+button {
+  font: inherit;
+}
